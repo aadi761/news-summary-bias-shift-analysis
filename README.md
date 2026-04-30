@@ -19,7 +19,7 @@ This is a final year / capstone project from **Chandigarh University**.
 
 ## 👥 Team Members
 
-- **Adithya** 
+- **Aaditya** 
 - **Fathimathu Rusfida** 
 - **Savnmandeep Kaur**
 - **Marupudi Rithika**
@@ -72,7 +72,7 @@ Authors: Adithya, Fathimathu Rusfida, Savnmandeep Kaur, Marupudi Rithika, Ikram 
 
 ```bibtex
 @misc{political-bias-summarization-2026,
-  author = {Adithya and Fathimathu Rusfida and Savnmandeep Kaur and Marupudi Rithika and Ikram Ali},
+  author = {Aaditya and Fathimathu Rusfida and Savnmandeep Kaur and Marupudi Rithika and Ikram Ali},
   title = {Automatic News Summarization and Political Bias Analysis},
   year = {2026},
   publisher = {GitHub},
