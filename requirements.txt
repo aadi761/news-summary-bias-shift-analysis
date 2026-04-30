@@ -1,0 +1,11 @@
+transformers
+datasets
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+sentencepiece
+accelerate
+rouge-score
+nltk
